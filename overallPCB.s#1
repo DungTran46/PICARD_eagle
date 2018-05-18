@@ -8704,6 +8704,8 @@ STAND-OFF</description>
 <part name="GND5" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
 <part name="GND9" library="SparkFun-PowerSymbols" library_urn="urn:adsk.eagle:library:530" deviceset="GND" device=""/>
 <part name="J2" library="SparkFun-Connectors" library_urn="urn:adsk.eagle:library:513" deviceset="CONN_07" device="NO_SILK" package3d_urn="urn:adsk.eagle:package:38136/1"/>
+<part name="H3" library="SparkFun-Hardware" library_urn="urn:adsk.eagle:library:519" deviceset="STAND-OFF" device="" package3d_urn="urn:adsk.eagle:package:38630/1"/>
+<part name="H4" library="SparkFun-Hardware" library_urn="urn:adsk.eagle:library:519" deviceset="STAND-OFF" device="" package3d_urn="urn:adsk.eagle:package:38630/1"/>
 </parts>
 <sheets>
 <sheet>
@@ -8868,6 +8870,8 @@ LED: IO13</text>
 <instance part="GND5" gate="1" x="337.82" y="35.56"/>
 <instance part="GND9" gate="1" x="347.98" y="35.56"/>
 <instance part="J2" gate="G$1" x="312.42" y="2.54"/>
+<instance part="H3" gate="G$1" x="398.78" y="35.56"/>
+<instance part="H4" gate="G$1" x="403.86" y="35.56"/>
 </instances>
 <busses>
 </busses>
